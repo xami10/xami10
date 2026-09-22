@@ -1,128 +1,63 @@
+# 👋 Привет! Я Азиз
 
-# ⚡ SpeedBot
+💻 **Начинающий разработчик и дизайнер из Узбекистана 🇺🇿**
 
-### Typing Speed Simulator
+Я учусь программированию, создаю свои проекты и постепенно развиваю навыки в разработке, электронике и дизайне.
 
-SpeedBot is a modern web-based typing speed simulator built with HTML, CSS, and JavaScript.
+Мне нравится не просто изучать технологии, а **придумывать идеи и превращать их в реальные проекты**.
 
-The project simulates virtual typing at different speeds, allowing users to select a speed from 10 to 200 WPM and watch the bot type text in real time.
+## 🚀 Немного обо мне
 
-> ⚠️ This project is an educational typing simulation. It does not automate typing in Monkeytype.
+* 🇺🇿 Живу в Узбекистане
+* 💻 Изучаю **HTML, CSS, JavaScript и C++**
+* 🤖 Работаю с **Arduino, Wokwi и Tinkercad**
+* 🎨 Интересуюсь **UI/UX и графическим дизайном**
+* 🌐 Создаю сайты и небольшие веб-проекты
+* 🚀 Интересуюсь **стартапами и искусственным интеллектом**
+* 📚 Постоянно изучаю что-то новое
 
----
+## 🛠️ Мои навыки
 
-## 🚀 Features
+### 💻 Программирование
 
-- 🎯 Speed selection from 10 to 200 WPM
-- 🤖 Virtual typing animation
-- ▶️ Start button
-- ⏸ Stop button
-- 🔄 Reset button
-- 📊 Typing progress indicator
-- 🔢 Character counter
-- 📈 WPM display
-- 🌙 Modern dark theme
-- 📱 Responsive design for mobile devices
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
----
+### 🤖 Электроника
 
-## 🛠️ Technologies
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+![Wokwi](https://img.shields.io/badge/Wokwi-222222?style=for-the-badge)
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
+### 🎨 Дизайн
 
----
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
-## 📂 Project Structure
+## 📌 Мои проекты
 
-```text
-SpeedBot/
-│
-├── index.html
-└── README.md
-```
+### 🤖 Arduino Smart Home
 
----
+Проект умного дома с использованием Arduino, датчиков, светодиодов, сервоприводов, LCD-дисплея и других компонентов.
 
-## 💻 How to Run
+### 🌐 Веб-проекты
 
-### 1. Clone the repository
+Создаю сайты и небольшие веб-приложения с помощью HTML, CSS и JavaScript.
 
-```bash
-git clone https://github.com/YOUR-USERNAME/SpeedBot.git
-```
+### 🚀 Стартапы
 
-### 2. Open the project folder
+Мне нравится придумывать идеи для полезных цифровых продуктов, создавать прототипы и продумывать, как их можно реализовать.
 
-```bash
-cd SpeedBot
-```
+## 🎯 Моя цель
 
-### 3. Run the project
+**Учиться → Создавать → Улучшать.**
 
-Open the `index.html` file in your browser.
+Я хочу стать сильным разработчиком и дизайнером, создавая собственные проекты и получая опыт на практике.
 
-You can also use Visual Studio Code with the Live Server extension.
+## 📫 Связь
+
+Если хочешь обсудить проект, идею или сотрудничество — можешь связаться со мной через GitHub.
 
 ---
 
-## 🎮 How to Use
-
-1. Open SpeedBot in your browser.
-2. Select a typing speed using the slider.
-3. Choose a speed from 10 to 200 WPM.
-4. Click the **Start** button.
-5. Watch the virtual bot type the text.
-6. Use **Stop** to pause the simulation.
-7. Use **Reset** to restart the typing simulation.
-
----
-
-## 📊 WPM
-
-WPM means Words Per Minute.
-
-The simulator uses a standard calculation based on 5 characters per word.
-
-The selected speed controls the virtual typing interval.
-
----
-
-## 🎯 Project Goal
-
-The goal of this project is to practice web development and learn how JavaScript can control animations, timers, and interactive user interfaces.
-
----
-
-## 🔮 Future Improvements
-
-- [ ] Add custom text input
-- [ ] Add typing sound effects
-- [ ] Add multiple typing languages
-- [ ] Add typing history
-- [ ] Add accuracy statistics
-- [ ] Add more visual themes
-- [ ] Add GitHub Pages deployment
-
----
-
-## 📸 Preview
-
-Add a screenshot of your project here:
-
-```markdown
-![SpeedBot Preview](preview.png)
-```
-
----
-
-## 👨‍💻 Author
-
-Created by **YOUR-NAME**
-
----
-
-## 📄 License
-
-This project is created for educational purposes.
+⭐ Спасибо, что заглянул в мой профиль!
